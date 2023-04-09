@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vvkkumar06" alt="vvkkumar06" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile development**
+- 🌱 I’m currently learning **New Technologies**
 
 - 💬 Ask me about **React, Angular, Node**
 
